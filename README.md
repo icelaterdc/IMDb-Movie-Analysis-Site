@@ -17,11 +17,6 @@ Bu proje, IMDb verilerini kullanarak **en popüler filmleri, en başarılı yön
 
 ---
 
-## 🎥 Demo  
-🔗 **[Canlı Demo için tıklayın](https://yourprojectdemo.com)**  
-
----
-
 ## 🛠️ Kullanılan Teknolojiler  
 - **Backend:** Flask, FastAPI veya Node.js  
 - **Frontend:** React.js, Next.js veya Vue.js  
