@@ -22,12 +22,6 @@ Bu proje, IMDb verilerini kullanarak **en popüler filmleri, en başarılı yön
 
 ---
 
-## 📸 Görseller  
-![Dashboard](https://via.placeholder.com/800x400.png?text=Dashboard+G%C3%B6rseli)  
-![Trend Analiz](https://via.placeholder.com/800x400.png?text=Film+Trend+Analizi)  
-
----
-
 ## 🛠️ Kullanılan Teknolojiler  
 - **Backend:** Flask, FastAPI veya Node.js  
 - **Frontend:** React.js, Next.js veya Vue.js  
