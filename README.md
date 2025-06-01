@@ -31,4 +31,4 @@ Bu proje, IMDb verilerini kullanarak **en popüler filmleri, en başarılı yön
 ### **1️⃣ Depoyu Klonlayın:**  
 ```sh
 git clone https://github.com/icelaterdc/IMDb-Movie.git
-cd IMDb-Film-Analysis
+cd IMDb-Movie
